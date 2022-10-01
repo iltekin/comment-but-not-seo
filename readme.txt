@@ -32,7 +32,7 @@ Comment But Not SEO plugin is created by [Sezer İltekin](https://iltekin.com)
 
 == Frequently Asked Questions ==
 
-For any questions, error reports and suggestions please visit https://iltekin.com/contact
+For any questions, error reports and suggestions please visit [my contact page](https://iltekin.com/contact)
 
 == Changelog ==
 
